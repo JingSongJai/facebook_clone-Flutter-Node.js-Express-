@@ -1,4 +1,4 @@
-## Full Product CRUD App (Flutter + Provider + Express.js + MongoDB)
+## Full-Stack Facebook Clone (Flutter + GetX + Express.js + MongoDB)
 
 This is a full-stack Facebook clone (Not include all functions). It includes:
 
