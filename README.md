@@ -1,4 +1,4 @@
-## Full Product CRUD App (Flutter + Provider + Express.js + MongoDB)
+<img width="1080" height="2340" alt="Screenshot_1753185156" src="https://github.com/user-attachments/assets/8ee24dc0-0b1f-4cfc-889d-c8021cd3b15d" />## Full Product CRUD App (Flutter + Provider + Express.js + MongoDB)
 
 This is a full-stack Facebook clone (Not include all functions). It includes:
 
@@ -67,11 +67,17 @@ Or change `10.0.2.2` to your actual IP if using a physical device.
 # 3. Screenshots
 
 <p float="left">
-  <img alt="View Products" src="https://github.com/user-attachments/assets/3a16e4f2-0ecc-4ec3-958e-859b5b5f04b7" width="22%" />
-  <img alt="Add Product" src="https://github.com/user-attachments/assets/5b75775b-3fba-4bd6-a52b-ae16a23ec8da" width="22%" />
-  <img alt="Edit Product" src="https://github.com/user-attachments/assets/69dbf95a-fecf-4c34-b19d-f131bd0df6a4" width="22%" />
-  <img alt="Delete Product" src="https://github.com/user-attachments/assets/d8d54e64-d217-4ebe-b18e-3954bd83661e" width="22%" />
+   <img src="https://github.com/user-attachments/assets/3a16e4f2-0ecc-4ec3-958e-859b5b5f04b7" width="22%" />
+   <img src="https://github.com/user-attachments/assets/3e5b1027-5475-446f-bb11-151d914b75b0" width="22%" />
+   <img src="https://github.com/user-attachments/assets/eed1bc39-f219-46e2-98e6-00585cf27ebb" width="22%" />
+   <img src="https://github.com/user-attachments/assets/a9283c8c-6990-429c-bc19-88c33a6a8acd" width="22%" />
+   <img src="https://github.com/user-attachments/assets/978fe4cf-53b4-4058-9541-320c8a310e99" width="22%" />
+   <img src="https://github.com/user-attachments/assets/3265afde-29fa-4d34-9efc-d55a9bd29730" width="22%" />
+   <img src="https://github.com/user-attachments/assets/f8bdbeec-8069-488e-8182-fd6faad6d20e" width="22%" />
+   <img src="https://github.com/user-attachments/assets/e39926b2-5e71-415b-96c2-5c195532a17d" width="22%" />
+   <img src="https://github.com/user-attachments/assets/d0bc2bf1-7339-44de-8bdd-68d030d1ff58" width="22%" />
 </p>
+
 
 ---
 
