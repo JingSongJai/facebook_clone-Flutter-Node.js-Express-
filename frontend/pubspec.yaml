@@ -1,0 +1,51 @@
+name: facebook_clone
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_web_plugins:
+    sdk: flutter
+  get: ^4.7.2
+  flutter_dotenv: ^5.2.1
+  dio: ^5.8.0+1
+  flutter_secure_storage: ^9.2.4
+  flutter_svg: ^2.2.0
+  easy_image_viewer: ^1.5.1
+  image_picker: ^1.1.2
+  internet_connection_checker_plus: ^2.7.2
+  socket_io_client: ^3.1.2
+  shimmer: ^3.0.0
+  readmore: ^3.0.0
+  transparent_image: ^2.0.1
+  flutter_native_splash: ^2.4.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/png/
+    - assets/images/gif/
+    - assets/icons/
+    - .env
+  fonts:
+    - family: Kantumruy
+      fonts:
+        - asset: assets/fonts/KantumruyPro.ttf
+
+flutter_native_splash:
+  color: "#ffffff" # Background color (or use `background_image`)
+  image: assets/images/png/icon_medium.png # Splash image path (PNG recommended)
+  android_12:
+    color: "#ffffff"
+    image: assets/images/png/icon_medium.png
+  web: true # If you want splash for Flutter web
