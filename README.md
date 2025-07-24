@@ -68,7 +68,6 @@ Or change `10.0.2.2` to your actual IP if using a physical device.
 
 <p float="left">
    <img src="https://github.com/user-attachments/assets/8ee24dc0-0b1f-4cfc-889d-c8021cd3b15d" width="22%" />
-   <img src="https://github.com/user-attachments/assets/3a16e4f2-0ecc-4ec3-958e-859b5b5f04b7" width="22%" />
    <img src="https://github.com/user-attachments/assets/3e5b1027-5475-446f-bb11-151d914b75b0" width="22%" />
    <img src="https://github.com/user-attachments/assets/eed1bc39-f219-46e2-98e6-00585cf27ebb" width="22%" />
    <img src="https://github.com/user-attachments/assets/a9283c8c-6990-429c-bc19-88c33a6a8acd" width="22%" />
