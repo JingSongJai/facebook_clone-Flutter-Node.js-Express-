@@ -16,7 +16,7 @@ This is a full-stack Facebook clone (Not include all functions). It includes:
 - `.env` file with:
 
 ```env
-MONGODB_URI=mongodb://localhost:27017/your_db_name
+MONGODB_URI=mongodb://localhost:your_db_port/your_db_name
 ```
 
 ## - Setup Instructions
@@ -37,7 +37,7 @@ MONGODB_URI=mongodb://localhost:27017/your_db_name
 
 ---
 
-# 2. Set up for Frontend (Flutter + Provider)
+# 2. Set up for Frontend (Flutter + GetX)
 
 ## - Requirements
 
